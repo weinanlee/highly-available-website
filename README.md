@@ -7,7 +7,7 @@ In this project, I deployed web servers for a highly available web app using Clo
 
 ## Architecture Diagram
 
-![image](Diagram of Udacity Program.png)
+![image](Architecture-Diagram.png )
 
 ## Running Project
 
@@ -26,7 +26,7 @@ Files:
 
 ```
 .
-├── Diagram of Udacity Program.png           # Architecture Diagram
+├── Architecture-Diagram.png                 # Architecture Diagram
 ├── create.sh                                # Script for creating stack
 ├── destroy.sh                               # Script for deleting stack
 ├── update.sh                                # Script for updating stack
