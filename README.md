@@ -7,7 +7,7 @@ In this project, I deployed web servers for a highly available web app using Clo
 
 ## Architecture Diagram
 
-![image](./Diagram of Udacity Program.png)
+![image](Diagram of Udacity Program.png)
 
 ## Running Project
 
@@ -20,4 +20,17 @@ Delete Stack
 
 ```
 ./delete.sh UdaGramProject
+```
+
+Files:
+
+```
+.
+├── Diagram of Udacity Program.png           # Architecture Diagram
+├── create.sh                                # Script for creating stack
+├── destroy.sh                               # Script for deleting stack
+├── update.sh                                # Script for updating stack
+├── infra-network-server-parameters.json     # Description of CloudFormation infrastructure stack
+└── infra-network-server.yml                 # Parameters file for infrastructure stack
+
 ```
